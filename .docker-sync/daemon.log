@@ -1,0 +1,88 @@
+          ok  Starting unison for sync app1-sync
+          ok  app1-sync container still running, restarting unison in container
+          ok  Synced /Users/tkambler/Desktop/project/app1/
+     success  Unison server started
+          ok  Synced /Users/tkambler/Desktop/project/app1/
+Unison 2.51.2 (ocaml 4.07.0): Contacting server...
+Connected [//7b04dbd0e731//app_sync -> //Tims-iMac-Pro//Users/tkambler/Desktop/project/app1]
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Fatal error: Lost connection with the server
+          ok  Starting unison for sync app1-sync
+          ok  app1-sync container still running, restarting unison in container
+          ok  Synced /Users/tkambler/Desktop/project/app1/
+     success  Unison server started
+          ok  Synced /Users/tkambler/Desktop/project/app1/
+Unison 2.51.2 (ocaml 4.07.0): Contacting server...
+Connected [//7b04dbd0e731//app_sync -> //Tims-iMac-Pro//Users/tkambler/Desktop/project/app1]
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Fatal error: Lost connection with the server
+          ok  Starting unison for sync app1-sync
+          ok  app1-sync container still running, restarting unison in container
+          ok  Synced /Users/tkambler/Desktop/project/app1/
+     success  Unison server started
+          ok  Synced /Users/tkambler/Desktop/project/app1/
+Unison 2.51.2 (ocaml 4.07.0): Contacting server...
+Connected [//7b04dbd0e731//app_sync -> //Tims-iMac-Pro//Users/tkambler/Desktop/project/app1]
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Fatal error: Lost connection with the server
+          ok  Starting unison for sync app1-sync
+          ok  app1-sync container still running, restarting unison in container
+          ok  Synced /Users/tkambler/Desktop/project/app1/
+     success  Unison server started
+          ok  Synced /Users/tkambler/Desktop/project/app1/
+Unison 2.51.2 (ocaml 4.07.0): Contacting server...
+Connected [//7b04dbd0e731//app_sync -> //Tims-iMac-Pro//Users/tkambler/Desktop/project/app1]
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.07.0) started propagating changes at 17:40:07.62 on 14 Apr 2019
+[BGN] Updating file start.js from /Users/tkambler/Desktop/project/app1 to //7b04dbd0e731//app_sync
+[END] Updating file start.js
+UNISON 2.51.2 (OCAML 4.07.0) finished propagating changes at 17:40:07.62 on 14 Apr 2019
+Saving synchronizer state
+Synchronization complete at 17:40:07  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Propagating updates
+UNISON 2.51.2 (OCAML 4.07.0) started propagating changes at 17:40:12.86 on 14 Apr 2019
+[BGN] Updating file start.js from /Users/tkambler/Desktop/project/app1 to //7b04dbd0e731//app_sync
+[END] Updating file start.js
+UNISON 2.51.2 (OCAML 4.07.0) finished propagating changes at 17:40:12.87 on 14 Apr 2019
+Saving synchronizer state
+Synchronization complete at 17:40:12  (1 item transferred, 0 skipped, 0 failed)
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Fatal error: Lost connection with the server
+          ok  Starting unison for sync app1-sync
+          ok  app1-sync container still running, restarting unison in container
+          ok  Synced /Users/tkambler/Desktop/project/app1/
+     success  Unison server started
+          ok  Synced /Users/tkambler/Desktop/project/app1/
+Unison 2.51.2 (ocaml 4.07.0): Contacting server...
+Connected [//5119d727e15b//app_sync -> //Tims-iMac-Pro//Users/tkambler/Desktop/project/app1]
+Looking for changes
+  Waiting for changes from server
+Reconciling changes
+Nothing to do: replicas have not changed since last sync.
+Fatal error: Lost connection with the server

@@ -1,0 +1,13 @@
+version: "3.7"
+services:
+  app1:
+    build:
+      context: app1
+    # entrypoint: ["tail", "-f", "/dev/null"]
+    volumes:
+      - app1-sync:/opt/app:nocopy
+      # - ./app1:/opt/app
+
+volumes:
+  app1-sync:
+    external: true
